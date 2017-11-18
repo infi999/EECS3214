@@ -1,4 +1,4 @@
-# P2P-Applicaiton
+# P2P-Application
 The objective of these two assignments are to implement interaction between hosts.
 For the P2P APP assigment, it requires the following:
 1. The concurrent directory server program runs waiting for a connection from a client.
